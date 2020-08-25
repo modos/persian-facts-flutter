@@ -2,6 +2,8 @@
 
 facts - persian version
 
+![](https://github.com/modos/persian-facts-flutter/blob/master/Screenshot_20200825-163008.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
